@@ -1,3 +1,4 @@
+alert("Register JavaScript is working!");
 const SUPABASE_URL = https://eeyegahvdqzieqtvgkla.supabase.co/rest/v1/;
 const SUPABASE_ANON_KEY = sb_publishable_9o5gW7e53N6rdfdk39m_eQ_KmMCvofC;
 
